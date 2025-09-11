@@ -2,10 +2,16 @@
     "name": "laravel/laravel-product-module",
     "type": "project",
     "description": "Laravel Product Module - CRUD Application with Authentication",
-    "keywords": ["laravel", "framework", "crud", "products", "authentication"],
+    "keywords": [
+        "laravel",
+        "framework",
+        "crud",
+        "products",
+        "authentication"
+    ],
     "license": "MIT",
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.2",
