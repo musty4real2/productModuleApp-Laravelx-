@@ -94,3 +94,4 @@ class ProductSeeder extends Seeder
 
         $this->command->info('Created ' . count($products) . ' sample products.');
     }
+}
